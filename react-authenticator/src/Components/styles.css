@@ -1,0 +1,66 @@
+/* styles.css */
+
+.logoutBtn {
+  padding: 8px 16px; /* Adjust padding to make it smaller */
+  /* Other styles for the button */
+  top: 10%; /* Align the button vertically in the middle */
+  right: 0px; /* Set the distance from the right edge of the container */
+  transform: translateY(-50%); /* Adjust for vertical centering */
+}
+  
+  .loginBtn {
+    padding: 8px 16px; /* Adjust padding to make it smaller */
+    /* Other styles for the button */
+  }
+    
+  .gradeEntryBtn {
+    position: absolute;
+    top: 50%; /* Align the button vertically in the middle */
+    right: 150px; /* Set the distance from the right edge of the container */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+  }
+  .addCourseBtn {
+    position: absolute;
+    top: 50%; /* Align the button vertically in the middle */
+    right: 290px; /* Set the distance from the right edge of the container */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+  }
+  .appName {
+    font-size: 30px;
+    color: #fff9f9; /* Set your desired color value for the appName class */
+    margin-left: 7px; /* Add some margin to the left of the appName */
+  }
+  
+  .dashboard {
+    margin-left: 20px; /* Add some margin to the left of the appName */
+    margin-top: 20px;
+  }
+  
+  .navbar {
+    background-color: #7880e9; /* Set your desired background color for the banner */
+    /* other styles */
+  }
+
+  .class1-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh; 
+  }
+  
+  .class1-content {
+    text-align: center; 
+  }
+
+  .class-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:60vh; 
+  }
+
+  .create-container {
+    display: flex;
+    margin-left: 100px;
+    height: 65vh; 
+  }

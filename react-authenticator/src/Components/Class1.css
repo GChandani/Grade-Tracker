@@ -1,0 +1,13 @@
+/* Class1.css */
+.class1-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust the height as needed */
+  }
+  
+  .class1-container h2,
+  .class1-container p {
+    text-align: center;
+  }
